@@ -9,4 +9,7 @@ If you find this useful, consider buying me a coffee!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8L32E3)
 
 ## Tutorial Part 1
-[![A link to the "Docker 101", Part 1 video](https://img.youtube.com/vi/0_SjIlpuSD8/0.jpg)](https://www.youtube.com/watch?v=0_SjIlpuSD8)
+[![A link to the "Docker 101"](https://img.youtube.com/vi/0_SjIlpuSD8/0.jpg)](https://www.youtube.com/watch?v=0_SjIlpuSD8)
+
+## Tutorial Part 2
+[![A link to the "Docker 102"](https://img.youtube.com/vi/ilg__8KbjAE/0.jpg)](https://www.youtube.com/watch?v=ilg__8KbjAE)
